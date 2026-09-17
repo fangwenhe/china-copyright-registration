@@ -1,5 +1,7 @@
 # China Copyright Registration 🇨🇳📝
 
+**[English](README.md)** | [中文](docs/README.zh-CN.md)
+
 > A practical, bilingual guide for **foreign creators, designers, developers and companies** registering copyright in China — works (作品著作权) and software (软件著作权/软著).
 
 **Why register in China?** China's copyright law protects works *automatically* at creation, but a **voluntary registration certificate (自愿登记证书)** is the strongest, cheapest proof of ownership you can hold — it accelerates platform takedowns (Tmall, Taobao, Douyin, TikTok Shop), supports licensing deals, and gives you a clear evidence chain in court or before Chinese authorities.
@@ -14,7 +16,14 @@
 - [Fees & timeline](#fees--timeline)
 - [FAQ](#faq)
 - [Enforcement & platform takedowns](#enforcement--platform-takedowns)
+- [Detailed checklists & templates](#detailed-checklists--templates)
 - [Disclaimer & contact](#disclaimer--contact)
+
+## Detailed checklists & templates
+
+- [Software copyright (软著) checklist](guides/software-copyright-checklist.md) — source-code format, naming rules, rejection causes
+- [Works copyright checklist](guides/works-copyright-checklist.md) — sample requirements for six work types
+- [Power of Attorney template (EN/中文)](templates/power-of-attorney-template.md) — for filing through an agent
 
 ---
 
