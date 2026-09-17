@@ -102,6 +102,17 @@ A: Use the platform's IP complaint portal (品牌保护平台), upload the certi
 3. **Civil litigation** — Chinese IP courts accept the certificate as strong prima facie evidence.
 4. **Customs** — record your copyright to intercept pirated imports/exports.
 
+## Explore the full China IP toolkit
+
+| Repository | What it covers |
+|---|---|
+| [china-trademark-toolkit](https://github.com/fangwenhe/china-trademark-toolkit) | Registration, search, fees, 45 classes, refusal response, free risk self-check tool |
+| [china-ip-enforcement](https://github.com/fangwenhe/china-ip-enforcement) | Opposition, invalidation, 撤三, platform takedowns, Amazon Brand Registry China |
+| [china-copyright-registration](https://github.com/fangwenhe/china-copyright-registration) | Works & software copyright (软著) registration, checklists, POA template |
+| [awesome-china-ip](https://github.com/fangwenhe/awesome-china-ip) | Curated hub: official portals, search tools, glossary, machine-readable datasets |
+
+---
+
 ## Disclaimer & contact
 
 This guide is **general information, not legal advice**. Rules and fees change; verify with CCPC before filing, and consult a qualified Chinese IP professional for your specific case.
